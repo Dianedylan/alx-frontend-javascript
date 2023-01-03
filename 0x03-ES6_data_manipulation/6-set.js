@@ -5,4 +5,3 @@ function setFromArray(myArray) {
   return mySet;
 }
 
-export default setFromArray;

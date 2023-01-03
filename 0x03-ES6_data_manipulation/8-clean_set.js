@@ -13,4 +13,3 @@ function cleanSet(set, startString) {
   return newList.join('-');
 }
 
-export default cleanSet;
